@@ -8,3 +8,8 @@ Contact Professor Corey J. A. Bradshaw
 http://globalecologyflinders.com; corey.bradshaw@flinders.edu.au
 
 03 September 2019
+
+
+Main R script that calls all data files: AfricaCountryChildHealthGithub.R
+
+Note, you must unzip the file 'IHME_DAH_DATABASE_1990_2015_Y2016M04D25.CSV.zip' within the same directory to access the .csv file with the R script
