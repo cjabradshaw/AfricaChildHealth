@@ -1,4 +1,5 @@
-# AfricaChildHealth
+# Africa Child Health
+<img align="right" src="AfricaChildHealth.png" alt="Child Health" width="200" style="margin-top: 20px">
 
 Data and R code to reproduce analyses examining socio-economic and environmental determinants of child-health outcomes among African nations
 
