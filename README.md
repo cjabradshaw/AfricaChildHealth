@@ -3,7 +3,7 @@
 
 Data and R code to reproduce analyses examining socio-economic and environmental determinants of child-health outcomes among African nations
 
-Accompanies the paper: Bradshaw, CJA, SP Otto, AA Annamalay, S Heft-Neal, Z Wagner, PN Le Souëf. 2019. Testing the socio-economic and environmental determinants of better child-health outcomes in Africa: a cross-sectional study among nations. <em>BMJ Open</em> 9: e029968. doi:<a href="http://doi.org/10.1136/bmjopen-2019-029968">10.1136/bmjopen-2019-029968</a>
+Accompanies the paper: <a href="https://globalecologyflinders.com/people/#DIRECTOR">Bradshaw, CJA</a>, <a href="https://www.zoology.ubc.ca/~otto/">SP Otto</a>, <a href="https://www.linkedin.com/in/alicia-annamalay-64876a43">AA Annamalay</a>, <a href="http://stanford.edu/~samhn/">S Heft-Neal</a>, <a href="https://www.rand.org/about/people/w/wagner_zachary.html">Z Wagner</a>, <a href="https://research-repository.uwa.edu.au/en/persons/peter-le-souef">PN Le Souëf</a>. 2019. Testing the socio-economic and environmental determinants of better child-health outcomes in Africa: a cross-sectional study among nations. <em>BMJ Open</em> 9: e029968. doi:<a href="http://doi.org/10.1136/bmjopen-2019-029968">10.1136/bmjopen-2019-029968</a>
 
 ## ABSTRACT
 ### Objective
