@@ -1,0 +1,59 @@
+country,cntry.code,cont,UN.region,AU.region,WHO.region,WB.region
+Algeria,DZA,AFR,northern,north,D,uppermid
+Angola,AGO,AFR,middle,southern,D,lowermid
+Benin,BEN,AFR,western,west,D,low
+Botswana,BWA,AFR,southern,southern,E,uppermid
+Burkina Faso,BFA,AFR,western,west,D,low
+Burundi,BDI,AFR,eastern,central,E,low
+Cameroon,CMR,AFR,middle,central,D,lowermid
+Cape Verde,CPV,AFR,western,west,D,lowermid
+Central African Republic,CAF,AFR,middle,central,E,low
+Chad,TCD,AFR,middle,central,D,low
+Comoros,COM,AFR,eastern,east,D,low
+Congo,COG,AFR,middle,central,E,lowermid
+Congo Dem Rep,COD,AFR,middle,central,E,low
+Cote dIvoire,CIV,AFR,western,west,E,lowermid
+Djibouti,DJI,AFR,eastern,east,E,lowermid
+Egypt,EGY,AFR,northern,north,D,lowermid
+Equatorial Guinea,GNQ,AFR,middle,central,D,uppermid
+Eritrea,ERI,AFR,eastern,east,E,low
+Ethiopia,ETH,AFR,eastern,east,E,low
+Gabon,GAB,AFR,middle,central,D,uppermid
+Gambia,GMB,AFR,western,west,D,low
+Ghana,GHA,AFR,western,west,D,lowermid
+Guinea,GIN,AFR,western,west,D,low
+Guinea Bissau,GNB,AFR,western,west,D,low
+Kenya,KEN,AFR,eastern,east,E,lowermid
+Lesotho,LSO,AFR,southern,southern,E,lowermid
+Liberia,LBR,AFR,western,west,D,low
+Libya,LBY,AFR,northern,north,D,uppermid
+Madagascar,MDG,AFR,eastern,east,D,low
+Malawi,MWI,AFR,eastern,southern,E,low
+Mali,MLI,AFR,western,west,D,low
+Mauritania,MRT,AFR,western,north,D,lowermid
+Mauritius,MUS,AFR,eastern,east,D,uppermid
+Mayotte,MYT,AFR,eastern,east,D,NA
+Morocco,MAR,AFR,northern,north,D,lowermid
+Mozambique,MOZ,AFR,eastern,southern,E,low
+Namibia,NAM,AFR,southern,southern,E,uppermid
+Niger,NER,AFR,western,west,D,low
+Nigeria,NGA,AFR,western,west,D,lowermid
+Reunion,REU,AFR,eastern,east,D,high
+Rwanda,RWA,AFR,eastern,east,E,low
+Saint Helena-Ascension-Tristan da Cunha,SHN,AFR,western,west,E,NA
+Sao Tome and Principe,STP,AFR,middle,central,D,lowermid
+Senegal,SEN,AFR,western,west,D,low
+Seychelles,SYC,AFR,eastern,east,D,high
+Sierra Leone,SLE,AFR,western,west,D,low
+Somalia,SOM,AFR,eastern,east,E,low
+South Africa,ZAF,AFR,southern,southern,E,uppermid
+South Sudan,SSD,AFR,middle,east,E,low
+Sudan,SDN,AFR,northern,east,E,lowermid
+Swaziland,SWZ,AFR,southern,southern,E,lowermid
+Tanzania,TZA,AFR,eastern,east,E,low
+Togo,TGO,AFR,western,west,D,low
+Tunisia,TUN,AFR,northern,north,D,lowermid
+Uganda,UGA,AFR,eastern,east,E,low
+Western Sahara,ESH,AFR,northern,north,D,lowermid
+Zambia,ZMB,AFR,eastern,southern,E,lowermid
+Zimbabwe,ZWE,AFR,eastern,southern,E,low

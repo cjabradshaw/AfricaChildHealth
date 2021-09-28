@@ -1,0 +1,153 @@
+cntry.code,country,PA.H,PA.C,Eco.H,EcoC,GDP,MCI,Rank,Performer
+AFG,Afghanistan,2.96,0.51,6.74,267.48,0.00012,56.84,114,below.average
+ALB,Albania,0.01,14.45,0.01,120.61,0.00136,37.45,127,underperformer
+DZA,Algeria,1.2,4.31,3.07,112.35,0.00068,60.36,111,below.average
+AND,Andorra,0.01,0.01,100,8.46,1.00E-05,22.36,142,underperformer
+AGO,Angola,6.58,6.56,414.48,314.01,9.00E-04,82.69,40,above.average
+ARG,Argentina,2.72,4.77,56.48,46.43,0.0032,72.4,76,above.average
+ARM,Armenia,13.36,13.36,100,267.32,0.00099,82.51,42,above.average
+AUS,Australia,91.29,0.01,0.03,0.01,0.05629,29.76,134,underperformer
+AUT,Austria,8.65,12.63,100.31,18.06,0.03002,83.12,38,above.average
+AZE,Azerbaijan,11.83,9.19,57,281.22,0.00037,77.13,66,above.average
+BGD,Bangladesh,1.68,3.25,96.54,94.48,7.00E-05,63.29,103,below.average
+BLR,Belarus,6.23,6.9,169.25,231.66,0.00158,80.96,53,above.average
+BEL,Belgium,26.12,0.01,29.18,0.01,0.0388,44.23,121,below.average
+BLZ,Belize,19.33,19.35,98.35,195.82,0.00476,87.81,22,above.average
+BEN,Benin,8.53,7.56,376.98,368.53,0.00108,84.43,34,above.average
+BTN,Bhutan,39.91,39.91,145.48,480.32,0.00677,96.09,4,performer
+BOL,Bolivia,0.75,0.62,82.81,234.64,0.00064,64.54,101,below.average
+BIH,Bosnia Herzegovina,0.58,0.61,18.41,135.5,1.00E-05,47.16,118,below.average
+BWA,Botswana,18.91,18.91,793.38,524.77,0.02174,100,1,performer
+BRA,Brazil,6.52,5.88,89.29,246.22,0.00383,81.48,47,above.average
+BRN,Brunei,12.47,13.58,198.32,135.55,0.01722,90.03,17,performer
+BGR,Bulgaria,2.26,3.78,98.83,72.26,1.00E-05,58.51,113,below.average
+BFA,Burkina Faso,5.42,10.96,290.93,361.6,0.00079,82.64,41,above.average
+BDI,Burundi,3.48,3.48,237.25,238.3,0.00405,81.07,52,above.average
+KHM,Cambodia,21.04,26.66,192.21,247.81,4.00E-05,78.25,61,above.average
+CMR,Cameroon,7.98,7.96,380.94,222.02,0.00159,84.09,36,above.average
+CAN,Canada,10.38,10.26,149.9,235.2,0.07996,93.63,8,performer
+CAF,Central African Republic,11.73,11.73,489.75,322.94,0.01422,93.71,7,performer
+TCD,Chad,8.74,10.21,106.52,194.19,0.00116,80.39,54,above.average
+CHL,Chile,8.2,13.54,11.91,84.26,0.00294,75.36,70,above.average
+CHN,China,0.02,0.02,131.96,295.89,5.00E-04,46.83,119,below.average
+COL,Colombia,17.31,11.82,57.34,219.76,0.00369,84.38,35,above.average
+CRI,Costa Rica,14.23,14.29,98.99,188.73,0.02715,90.77,12,performer
+HRV,Croatia,1.64,2.93,73.05,82.78,0.01399,75.93,68,above.average
+CZE,Czech Republic,2.42,9.76,108.72,14.36,0.00612,74.35,73,above.average
+COD,Congo Dem Rep,5.76,4.79,241.1,162.32,1.00E-05,66.21,96,above.average
+DNK,Denmark,10.29,0.01,66.94,0.01,0.16987,47.91,117,below.average
+DJI,Djibouti,0.01,0.01,37.37,298.99,1.00E-05,29.28,135,underperformer
+ECU,Ecuador,0.02,0.04,43.95,169.3,0.00197,47.92,116,below.average
+EGY,Egypt,0.01,1.16,0.77,107.51,0.00024,37.42,128,underperformer
+SLV,El Salvador,0.01,0.07,0.17,99.77,0.00088,29.1,136,underperformer
+GNQ,Equatorial Guinea,14.9,71.76,243.25,12.46,1.00E-05,69.15,87,above.average
+ERI,Eritrea,5.27,4.83,128.6,320.41,1.00E-05,66.13,97,below.average
+EST,Estonia,7.25,7.4,182.59,244.98,0.03164,89.94,18,performer
+ETH,Ethiopia,4.43,4.09,237.1,403.18,0.00169,81.23,50,above.average
+FIN,Finland,8.93,8.88,105.93,266.41,0.03232,89.81,20,above.average
+FRA,France,1.68,6.52,82.62,41.69,0.02696,78.39,60,above.average
+GAB,Gabon,1.92,2.2,340.27,90.97,0.00019,68.48,91,above.average
+GMB,Gambia,0.32,0.19,28.15,204.68,0.00391,60.67,109,below.average
+GEO,Georgia,7.71,7.72,99.75,226.23,0.00093,78.95,58,above.average
+DEU,Germany,3.93,9.81,90.86,2.17,0.00865,71.05,80,above.average
+GHA,Ghana,4.5,4.5,394.14,295.19,0.00132,81.39,48,above.average
+GRC,Greece,11.29,10.66,18.91,58.86,1.00E-05,60.61,110,below.average
+GTM,Guatemala,4.62,4.56,98.36,151.93,0.00391,78.9,59,above.average
+GIN,Guinea,0.18,0.18,396.53,341.36,0.00109,64.02,102,below.average
+GNB,Guinea Bissau,0.01,0.01,256.61,293.98,1.00E-05,34.4,129,underperformer
+GUY,Guyana,0.4,0.4,99.47,271.62,0.00071,62.82,105,below.average
+HND,Honduras,18.14,17.84,95.8,146.16,0.00649,87.4,25,above.average
+HUN,Hungary,2.6,7.83,100,5.51,0.01749,73.98,74,above.average
+IND,India,3.85,4.56,190.15,221.75,0.00117,77.97,64,above.average
+IDN,Indonesia,9.63,10.33,98.44,77.82,4.00E-05,68.8,89,above.average
+IRN,Iran,2.82,3.17,11.57,285.28,1.00E-04,62.71,106,below.average
+IRQ,Iraq,0.01,0.66,0.01,206.04,5.00E-05,21.88,143,underperformer
+IRL,Ireland,0.78,0.01,18.38,0.01,0.03332,33.17,130,underperformer
+ISR,Israel,1.41,12.06,9.96,200.22,0.00679,74.41,72,above.average
+ITA,Italy,11.56,18.06,30.84,31.84,0.11079,86.71,26,above.average
+CIV,Cote dIvoire,6.3,6.3,439.84,287.27,0.00447,86.67,28,above.average
+JPN,Japan,0.01,15.47,0.01,46.46,0.05337,44.92,120,below.average
+JOR,Jordan,0.01,0.66,0.01,200.14,0.00079,29.09,137,underperformer
+KAZ,Kazakhstan,3.16,1.8,32.13,180.82,0.00026,65.6,99,below.average
+KEN,Kenya,5.86,5.85,713.9,438.32,0.01349,91.67,11,performer
+KWT,Kuwait,0.01,17.73,0.01,190.2,1.00E-05,26.07,140,underperformer
+KGZ,Kyrgyzstan,6.58,6.42,216.84,389.23,0.00278,84.49,33,above.average
+LAO,Laos,0.49,0.48,147.4,279.41,0.00424,69.79,85,above.average
+LVA,Latvia,9.29,9.37,199.24,195.97,0.00174,83.1,39,above.average
+LBN,Lebanon,0.01,0.02,0.01,195.49,0.00547,24.85,141,underperformer
+LSO,Lesotho,0.85,0.17,25.3,130.36,0.02919,66.89,95,above.average
+LBR,Liberia,0.02,0.02,329.77,219.09,0.00106,50.49,115,below.average
+LBY,Libya,0.01,0.03,0.01,99.82,1.00E-05,7.24,149,underperformer
+LIE,Liechtenstein,3.89,0.01,100,0.01,1.00E-05,20.28,145,underperformer
+LTU,Lithuania,5.09,5.09,199.75,190.75,0.00295,81.2,51,above.average
+LUX,Luxembourg,8.56,0.01,100,0.01,0.00669,39.83,125,underperformer
+MKD,Macedonia,1.78,8.38,4.09,144.89,0.00438,69.63,86,above.average
+MWI,Malawi,8.4,8.4,668.27,314.44,0.00652,90.59,14,performer
+MYS,Malaysia,5.88,7.17,181.56,172.51,0.00101,79.1,57,above.average
+MLI,Mali,8.66,3.93,66.53,154.71,8.00E-05,68.75,90,above.average
+MRT,Mauritania,0.01,0.48,0.01,112.96,0.00076,26.61,139,underperformer
+MEX,Mexico,3.82,1.32,11.69,118.86,0.00248,67.49,93,above.average
+MDA,Moldova,0.08,0.01,70.92,0.95,0.00084,33.03,131,underperformer
+MNG,Mongolia,21.54,15.18,140.44,200.62,0.00137,85.14,32,above.average
+MNE,Montenegro,0.01,0.08,5.93,109.47,1.00E-05,27.22,138,underperformer
+MAR,Morocco,2.89,4.02,15.23,102.34,4.00E-04,65.16,100,below.average
+MOZ,Mozambique,6.07,6.07,716,356.62,0.00931,90.33,15,performer
+MMR,Myanmar,6.93,7.72,194.31,361.99,0.00023,77.97,63,above.average
+NAM,Namibia,12.15,12.15,634.99,323.19,0.07233,98.95,2,performer
+NPL,Nepal,5.26,8.23,130.12,292.69,0.00279,82.43,44,above.average
+NLD,Netherlands,16.17,0.01,21.36,0.01,0.01255,39.08,126,underperformer
+NIC,Nicaragua,3.72,6.07,79.9,169.54,0.00294,78.06,62,above.average
+NER,Niger,6.06,15.8,8.01,177.59,0.00055,71.37,79,above.average
+NGA,Nigeria,3.69,3.01,174.43,208.1,0.00043,73.65,75,above.average
+NOR,Norway,16.95,22.96,167.5,100.3,0.0493,93.82,6,performer
+OMN,Oman,0.01,2.41,0.01,183.61,1.00E-05,20.63,144,underperformer
+PAK,Pakistan,6.62,4.57,15.43,222.35,3.00E-05,62.88,104,below.average
+PAN,Panama,11.06,11.03,97.2,153.41,0.0039,83.59,37,above.average
+PRY,Paraguay,2.76,2.43,86.67,206.74,4.00E-04,70.24,83,above.average
+PER,Peru,8,7.14,66.52,185.03,0.00111,77.68,65,above.average
+PHL,Philippines,20.82,0.01,26.39,0.01,0.00044,31.32,132,underperformer
+POL,Poland,1.17,2.16,175.72,45.07,0.00207,69.82,84,above.average
+PRT,Portugal,0.11,3.14,9.88,22.18,0.02392,61.42,108,below.average
+QAT,Qatar,0.01,0.01,0.01,194.43,0.00012,12.71,148,underperformer
+COG,Congo,9.47,9.29,309.55,123.66,0.00092,81.37,49,above.average
+ROU,Romania,2.07,3.93,99.47,105.54,0.00065,70.6,82,above.average
+RUS,Russia,6.56,6.53,146.5,287.76,0.002,81.78,46,above.average
+RWA,Rwanda,9.04,9.04,255.07,226.59,0.05532,93.26,10,performer
+SMR,San Marino,0.01,0.01,20.1,0.01,1.00E-05,0,152,underperformer
+SAU,Saudi Arabia,0.01,2.19,0.2,159.48,0.00309,43.41,122,below.average
+SEN,Senegal,19.6,10.56,110.25,286.68,0.00486,87.61,24,above.average
+SRB,Serbia,3.77,4.43,57.28,46.39,0.01329,76.93,67,above.average
+SLE,Sierra Leone,2.85,2.82,325.88,282.21,1.00E-04,71.47,78,above.average
+SVK,Slovakia,6.81,9.67,100.98,141.58,0.00491,82.44,43,above.average
+SVN,Slovenia,4.98,6.75,99.96,75.92,0.00603,79.5,56,above.average
+SOM,Somalia,0.01,0.01,45.18,340.99,1.00E-05,30.14,133,underperformer
+ZAF,South Africa,0.02,0.02,660.55,241.63,0.01456,59.64,112,below.average
+KOR,Korea South,6.96,6.95,93.93,177.46,0.0046,81.85,45,above.average
+ESP,Spain,2.68,3.37,80.45,22.89,0.00489,71.62,77,above.average
+LKA,Sri Lanka,28.76,41.56,148.24,88.73,0.00144,86.7,27,above.average
+SDN,Sudan,2.63,0.59,33.16,153.23,0.00217,67.44,94,above.average
+SUR,Suriname,10.08,10.09,99.76,285.41,1.00E-05,68.85,88,above.average
+SWZ,Swaziland,4.84,4.84,864.73,292.37,1.00E-05,70.77,81,above.average
+SWE,Sweden,9.83,10.75,139.92,164.16,0.03519,90.26,16,performer
+CHE,Switzerland,7.35,9.41,100,42.03,0.06499,86.22,29,above.average
+SYR,Syria,0.01,0.01,0.01,199.12,1.00E-05,6.15,150,underperformer
+TWN,Taiwan,19.79,72.78,98,18.62,0.00579,85.64,30,above.average
+TJK,Tajikistan,25.89,18.45,96.18,365.76,1.00E-04,79.65,55,above.average
+TZA,Tanzania,17.21,17.18,826.4,459.78,0.00839,96.69,3,performer
+THA,Thailand,31.4,33.47,95.3,147.9,0.00691,90.74,13,performer
+TGO,Togo,7.39,7.27,407.54,287.9,0.00523,87.71,23,above.average
+TUN,Tunisia,1.67,0.27,15.36,99.41,0.00401,62.55,107,below.average
+TUR,Turkey,0.01,0.01,72.2,186.68,0.00113,42.45,124,below.average
+TKM,Turkmenistan,11.91,2.95,3.34,169.16,0.00052,66.08,98,below.average
+UGA,Uganda,8.24,8.24,452.62,348.66,0.00474,88.87,21,above.average
+UKR,Ukraine,4.74,2.8,34.14,73.49,0.0086,74.99,71,above.average
+ARE,United Arab Emirates,0.01,0.01,0.01,137.11,1.00E-05,5.15,151,underperformer
+GBR,United Kingdom,9.11,0.01,71.8,0.01,0.03192,43.29,123,below.average
+USA,United States,19.43,13.82,49.65,116.15,0.04798,89.89,19,performer
+URY,Uruguay,0.01,0.02,0.01,32.37,0.00084,15.01,146,underperformer
+UZB,Uzbekistan,5.7,2.07,29.64,133.23,5.00E-04,68.28,92,above.average
+VEN,Venezuela,15.21,16.18,87.48,184.5,0.00343,85.34,31,above.average
+VNM,Vietnam,5.25,6.32,97.26,142.86,0.00073,75.43,69,above.average
+YEM,Yemen,0.01,0.01,0.01,193.09,0.00014,13.05,147,underperformer
+ZMB,Zambia,8.1,8.1,867.17,346,0.01418,93.43,9,performer
+ZWE,Zimbabwe,6.89,6.89,876.62,373.83,0.04554,95.93,5,performer

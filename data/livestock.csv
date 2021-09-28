@@ -1,0 +1,589 @@
+country,cntry.code,Item,no.ha
+Afghanistan,AFG,Cattle and Buffaloes,0.15
+Albania,ALB,Cattle and Buffaloes,0.41
+Algeria,DZA,Cattle and Buffaloes,0.04
+Angola,AGO,Cattle and Buffaloes,0.08
+Antigua and Barbuda,ATG,Cattle and Buffaloes,1.62
+Argentina,ARG,Cattle and Buffaloes,0.33
+Armenia,ARM,Cattle and Buffaloes,0.33
+Australia,AUS,Cattle and Buffaloes,0.07
+Austria,AUT,Cattle and Buffaloes,0.7
+Azerbaijan,AZE,Cattle and Buffaloes,0.56
+Bahamas,BHS,Cattle and Buffaloes,0.05
+Bahrain,BHR,Cattle and Buffaloes,1.2
+Bangladesh,BGD,Cattle and Buffaloes,2.69
+Barbados,BRB,Cattle and Buffaloes,0.72
+Belarus,BLR,Cattle and Buffaloes,0.47
+Belgium,BEL,Cattle and Buffaloes,1.9
+Belize,BLZ,Cattle and Buffaloes,0.58
+Benin,BEN,Cattle and Buffaloes,0.6
+Bermuda,BMU,Cattle and Buffaloes,0.88
+Bhutan,BTN,Cattle and Buffaloes,0.6
+Bolivia,BOL,Cattle and Buffaloes,0.23
+Bosnia Herzegovina,BIH,Cattle and Buffaloes,0.21
+Botswana,BWA,Cattle and Buffaloes,0.11
+Brazil,BRA,Cattle and Buffaloes,0.78
+British Virgin Islands,VGB,Cattle and Buffaloes,0.34
+Brunei,BRN,Cattle and Buffaloes,0.44
+Bulgaria,BGR,Cattle and Buffaloes,0.11
+Burkina Faso,BFA,Cattle and Buffaloes,0.73
+Burundi,BDI,Cattle and Buffaloes,0.29
+Cote dIvoire,CIV,Cattle and Buffaloes,0.08
+Cape Verde,CPV,Cattle and Buffaloes,0.62
+Cambodia,KHM,Cattle and Buffaloes,0.73
+Cameroon,CMR,Cattle and Buffaloes,0.5
+Canada,CAN,Cattle and Buffaloes,0.19
+Cayman Islands,CYM,Cattle and Buffaloes,0.76
+Central African Republic,CAF,Cattle and Buffaloes,0.82
+Chad,TCD,Cattle and Buffaloes,0.15
+Chile,CHL,Cattle and Buffaloes,0.24
+China,CHN,Cattle and Buffaloes,0.2
+Colombia,COL,Cattle and Buffaloes,0.66
+Comoros,COM,Cattle and Buffaloes,0.32
+Congo,COG,Cattle and Buffaloes,0.03
+Cook Islands,COK,Cattle and Buffaloes,0.04
+Costa Rica,CRI,Cattle and Buffaloes,0.73
+Croatia,HRV,Cattle and Buffaloes,0.34
+Cuba,CUB,Cattle and Buffaloes,0.62
+Cyprus,CYP,Cattle and Buffaloes,0.48
+Czech Republic,CZE,Cattle and Buffaloes,0.32
+Korea North,PRK,Cattle and Buffaloes,0.23
+Congo Dem Rep,COD,Cattle and Buffaloes,0.03
+Denmark,DNK,Cattle and Buffaloes,0.58
+Djibouti,DJI,Cattle and Buffaloes,0.17
+Dominica,DMA,Cattle and Buffaloes,0.52
+Dominican Republic,DOM,Cattle and Buffaloes,1.21
+Ecuador,ECU,Cattle and Buffaloes,0.73
+Egypt,EGY,Cattle and Buffaloes,2.35
+El Salvador,SLV,Cattle and Buffaloes,0.66
+Equatorial Guinea,GNQ,Cattle and Buffaloes,0.02
+Eritrea,ERI,Cattle and Buffaloes,0.27
+Estonia,EST,Cattle and Buffaloes,0.25
+Ethiopia,ETH,Cattle and Buffaloes,1.5
+Fiji,FJI,Cattle and Buffaloes,0.73
+Finland,FIN,Cattle and Buffaloes,0.4
+France,FRA,Cattle and Buffaloes,0.66
+French Guiana,GUF,Cattle and Buffaloes,0.62
+French Polynesia,PYF,Cattle and Buffaloes,0.16
+Gabon,GAB,Cattle and Buffaloes,0.01
+Gambia,GMB,Cattle and Buffaloes,0.65
+Georgia,GEO,Cattle and Buffaloes,0.45
+Germany,DEU,Cattle and Buffaloes,0.75
+Ghana,GHA,Cattle and Buffaloes,0.09
+Greece,GRC,Cattle and Buffaloes,0.08
+Grenada,GRD,Cattle and Buffaloes,0.4
+Guadeloupe,GLP,Cattle and Buffaloes,1.79
+Guam,GUM,Cattle and Buffaloes,0.01
+Guatemala,GTM,Cattle and Buffaloes,0.77
+Guinea,GIN,Cattle and Buffaloes,0.35
+Guinea Bissau,GNB,Cattle and Buffaloes,0.4
+Guyana,GUY,Cattle and Buffaloes,0.07
+Haiti,HTI,Cattle and Buffaloes,0.82
+Honduras,HND,Cattle and Buffaloes,0.82
+Hungary,HUN,Cattle and Buffaloes,0.13
+Iceland,ISL,Cattle and Buffaloes,0.05
+India,IND,Cattle and Buffaloes,1.8
+Indonesia,IDN,Cattle and Buffaloes,0.3
+Iran,IRN,Cattle and Buffaloes,0.18
+Iraq,IRQ,Cattle and Buffaloes,0.23
+Ireland,IRL,Cattle and Buffaloes,1.43
+Israel,ISR,Cattle and Buffaloes,0.86
+Italy,ITA,Cattle and Buffaloes,0.44
+Jamaica,JAM,Cattle and Buffaloes,0.37
+Japan,JPN,Cattle and Buffaloes,0.93
+Jordan,JOR,Cattle and Buffaloes,0.07
+Kazakhstan,KAZ,Cattle and Buffaloes,0.03
+Kenya,KEN,Cattle and Buffaloes,0.66
+Kuwait,KWT,Cattle and Buffaloes,0.23
+Kyrgyzstan,KGZ,Cattle and Buffaloes,0.13
+Laos,LAO,Cattle and Buffaloes,1.14
+Latvia,LVA,Cattle and Buffaloes,0.21
+Lebanon,LBN,Cattle and Buffaloes,0.1
+Lesotho,LSO,Cattle and Buffaloes,0.28
+Liberia,LBR,Cattle and Buffaloes,0.02
+Libya,LBY,Cattle and Buffaloes,0.01
+Liechtenstein,LIE,Cattle and Buffaloes,0.95
+Lithuania,LTU,Cattle and Buffaloes,0.27
+Luxembourg,LUX,Cattle and Buffaloes,1.47
+Madagascar,MDG,Cattle and Buffaloes,0.24
+Malawi,MWI,Cattle and Buffaloes,0.2
+Malaysia,MYS,Cattle and Buffaloes,0.13
+Mali,MLI,Cattle and Buffaloes,0.23
+Malta,MLT,Cattle and Buffaloes,1.46
+Martinique,MTQ,Cattle and Buffaloes,0.69
+Mauritania,MRT,Cattle and Buffaloes,0.04
+Mauritius,MUS,Cattle and Buffaloes,0.07
+Mexico,MEX,Cattle and Buffaloes,0.32
+Federated States of Micronesia,FSM,Cattle and Buffaloes,0.64
+Mongolia,MNG,Cattle and Buffaloes,0.02
+Montenegro,MNE,Cattle and Buffaloes,0.17
+Monserrat,MSR,Cattle and Buffaloes,3.27
+Morocco,MAR,Cattle and Buffaloes,0.1
+Mozambique,MOZ,Cattle and Buffaloes,0.03
+Myanmar,MMR,Cattle and Buffaloes,1.32
+Namibia,NAM,Cattle and Buffaloes,0.06
+Nepal,NPL,Cattle and Buffaloes,2.87
+Netherlands,NLD,Cattle and Buffaloes,2.05
+New Caledonia,NCL,Cattle and Buffaloes,0.36
+New Zealand,NZL,Cattle and Buffaloes,0.88
+Nicaragua,NIC,Cattle and Buffaloes,0.73
+Niger,NER,Cattle and Buffaloes,0.22
+Nigeria,NGA,Cattle and Buffaloes,0.25
+Niue,NIU,Cattle and Buffaloes,0.02
+Norfolk Island,NFK,Cattle and Buffaloes,0
+Norway,NOR,Cattle and Buffaloes,0.86
+Palestinian Territory,PSE,Cattle and Buffaloes,0.12
+Oman,OMN,Cattle and Buffaloes,0.19
+Pakistan,PAK,Cattle and Buffaloes,2.53
+Panama,PAN,Cattle and Buffaloes,0.73
+Papua New Guinea,PNG,Cattle and Buffaloes,0.08
+Paraguay,PRY,Cattle and Buffaloes,0.59
+Peru,PER,Cattle and Buffaloes,0.26
+Philippines,PHL,Cattle and Buffaloes,0.46
+Poland,POL,Cattle and Buffaloes,0.39
+Portugal,PRT,Cattle and Buffaloes,0.41
+Puerto Rico,PRI,Cattle and Buffaloes,2
+Qatar,QAT,Cattle and Buffaloes,0.15
+Reunion,REU,Cattle and Buffaloes,0.58
+Korea South,KOR,Cattle and Buffaloes,1.91
+Moldova,MDA,Cattle and Buffaloes,0.09
+Romania,ROU,Cattle and Buffaloes,0.14
+Russia,RUS,Cattle and Buffaloes,0.09
+Rwanda,RWA,Cattle and Buffaloes,0.6
+Saint Helena-Ascension-Tristan da Cunha,SHN,Cattle and Buffaloes,0.06
+St Kitts Nevis,KNA,Cattle and Buffaloes,0.58
+Saint Lucia,LCA,Cattle and Buffaloes,1
+Saint-Pierre-et-Miquelon,SPM,Cattle and Buffaloes,0.02
+St Vincent and the Grenadines,VCT,Cattle and Buffaloes,0.52
+Samoa,WSM,Cattle and Buffaloes,0.86
+Sao Tome and Principe,STP,Cattle and Buffaloes,0.1
+Saudi Arabia,SAU,Cattle and Buffaloes,0
+Senegal,SEN,Cattle and Buffaloes,0.35
+Serbia,SRB,Cattle and Buffaloes,0.19
+Seychelles,SYC,Cattle and Buffaloes,0.22
+Sierra Leone,SLE,Cattle and Buffaloes,0.17
+Singapore,SGP,Cattle and Buffaloes,0.27
+Slovakia,SVK,Cattle and Buffaloes,0.24
+Slovenia,SVN,Cattle and Buffaloes,1.03
+Solomon Islands,SLB,Cattle and Buffaloes,0.16
+Somalia,SOM,Cattle and Buffaloes,0.11
+South Africa,ZAF,Cattle and Buffaloes,0.14
+Spain,ESP,Cattle and Buffaloes,0.22
+Sri Lanka,LKA,Cattle and Buffaloes,0.61
+Suriname,SUR,Cattle and Buffaloes,0.68
+Swaziland,SWZ,Cattle and Buffaloes,0.51
+Sweden,SWE,Cattle and Buffaloes,0.49
+Switzerland,CHE,Cattle and Buffaloes,1.04
+Syria,SYR,Cattle and Buffaloes,0.08
+Tajikistan,TJK,Cattle and Buffaloes,0.42
+Thailand,THA,Cattle and Buffaloes,0.4
+Macedonia,MKD,Cattle and Buffaloes,0.24
+Timor Leste,TLS,Cattle and Buffaloes,0.73
+Togo,TGO,Cattle and Buffaloes,0.08
+Tonga,TON,Cattle and Buffaloes,0.36
+Trinidad and Tobago,TTO,Cattle and Buffaloes,0.72
+Tunisia,TUN,Cattle and Buffaloes,0.07
+Turkey,TUR,Cattle and Buffaloes,0.3
+Turkmenistan,TKM,Cattle and Buffaloes,0.07
+Uganda,UGA,Cattle and Buffaloes,0.58
+Ukraine,UKR,Cattle and Buffaloes,0.11
+United Arab Emirates,ARE,Cattle and Buffaloes,0.16
+United Kingdom,GBR,Cattle and Buffaloes,0.58
+Tanzania,TZA,Cattle and Buffaloes,0.57
+United States,USA,Cattle and Buffaloes,0.23
+US Virgin Islands,VIR,Cattle and Buffaloes,2.05
+Uruguay,URY,Cattle and Buffaloes,0.82
+Uzbekistan,UZB,Cattle and Buffaloes,0.34
+Vanuatu,VUT,Cattle and Buffaloes,0.86
+Venezuela,VEN,Cattle and Buffaloes,0.82
+Vietnam,VNM,Cattle and Buffaloes,0.75
+Wallis and Futuna Islands ,WLF,Cattle and Buffaloes,0.01
+Western Sahara,ESH,Cattle and Buffaloes,0
+Yemen,YEM,Cattle and Buffaloes,0.07
+Zambia,ZMB,Cattle and Buffaloes,0.13
+Zimbabwe,ZWE,Cattle and Buffaloes,0.31
+Albania,ALB,Pigs,0.14
+Algeria,DZA,Pigs,0
+Angola,AGO,Pigs,0.04
+Antigua and Barbuda,ATG,Pigs,0.33
+Argentina,ARG,Pigs,0.02
+Armenia,ARM,Pigs,0.07
+Aruba,ABW,Pigs,0
+Australia,AUS,Pigs,0.01
+Austria,AUT,Pigs,1.09
+Azerbaijan,AZE,Pigs,0
+Bahamas,BHS,Pigs,0.33
+Barbados,BRB,Pigs,1.47
+Belarus,BLR,Pigs,0.44
+Belgium,BEL,Pigs,4.75
+Belize,BLZ,Pigs,0.11
+Benin,BEN,Pigs,0.11
+Bermuda,BMU,Pigs,1.08
+Bhutan,BTN,Pigs,0.04
+Bolivia,BOL,Pigs,0.07
+Bosnia Herzegovina,BIH,Pigs,0.27
+Botswana,BWA,Pigs,0
+Brazil,BRA,Pigs,0.14
+British Virgin Islands,VGB,Pigs,0.21
+Brunei,BRN,Pigs,0.11
+Bulgaria,BGR,Pigs,0.13
+Burkina Faso,BFA,Pigs,0.19
+Burundi,BDI,Pigs,0.2
+Cote dIvoire,CIV,Pigs,0.02
+Cape Verde,CPV,Pigs,3.2
+Cambodia,KHM,Pigs,0.35
+Cameroon,CMR,Pigs,0.18
+Canada,CAN,Pigs,0.2
+Cayman Islands,CYM,Pigs,0.39
+Central African Republic,CAF,Pigs,0.2
+Chad,TCD,Pigs,0
+Chile,CHL,Pigs,0.18
+China,CHN,Pigs,0.91
+Colombia,COL,Pigs,0.04
+Congo,COG,Pigs,0.01
+Cook Islands,COK,Pigs,10.73
+Costa Rica,CRI,Pigs,0.23
+Croatia,HRV,Pigs,0.93
+Cuba,CUB,Pigs,0.23
+Cyprus,CYP,Pigs,3.7
+Czech Republic,CZE,Pigs,0.41
+Korea North,PRK,Pigs,0.91
+Congo Dem Rep,COD,Pigs,0.04
+Denmark,DNK,Pigs,4.81
+Dominica,DMA,Pigs,0.19
+Dominican Republic,DOM,Pigs,0.26
+Ecuador,ECU,Pigs,0.25
+Egypt,EGY,Pigs,0
+El Salvador,SLV,Pigs,0.29
+Equatorial Guinea,GNQ,Pigs,0.02
+Estonia,EST,Pigs,0.39
+Ethiopia,ETH,Pigs,0
+Fiji,FJI,Pigs,0.34
+Finland,FIN,Pigs,0.58
+France,FRA,Pigs,0.48
+French Guiana,GUF,Pigs,0.87
+French Polynesia,PYF,Pigs,0.66
+Gabon,GAB,Pigs,0.04
+Gambia,GMB,Pigs,0.05
+Georgia,GEO,Pigs,0.04
+Germany,DEU,Pigs,1.6
+Ghana,GHA,Pigs,0.04
+Greece,GRC,Pigs,0.14
+Grenada,GRD,Pigs,0.27
+Guadeloupe,GLP,Pigs,0.39
+Guam,GUM,Pigs,0.29
+Guatemala,GTM,Pigs,0.64
+Guinea,GIN,Pigs,0.01
+Guinea Bissau,GNB,Pigs,0.28
+Guyana,GUY,Pigs,0.01
+Haiti,HTI,Pigs,0.57
+Honduras,HND,Pigs,0.15
+Hungary,HUN,Pigs,0.59
+Iceland,ISL,Pigs,0.02
+India,IND,Pigs,0.05
+Indonesia,IDN,Pigs,0.14
+Iran,IRN,Pigs,0
+Ireland,IRL,Pigs,0.34
+Israel,ISR,Pigs,0.43
+Italy,ITA,Pigs,0.67
+Jamaica,JAM,Pigs,0.45
+Japan,JPN,Pigs,2.14
+Kazakhstan,KAZ,Pigs,0.01
+Kenya,KEN,Pigs,0.01
+Kyrgyzstan,KGZ,Pigs,0.01
+Laos,LAO,Pigs,1.25
+Latvia,LVA,Pigs,0.21
+Lebanon,LBN,Pigs,0.01
+Lesotho,LSO,Pigs,0.03
+Liberia,LBR,Pigs,0.11
+Liechtenstein,LIE,Pigs,0.28
+Lithuania,LTU,Pigs,0.33
+Luxembourg,LUX,Pigs,0.68
+Madagascar,MDG,Pigs,0.03
+Malawi,MWI,Pigs,0.39
+Malaysia,MYS,Pigs,0.22
+Mali,MLI,Pigs,0
+Malta,MLT,Pigs,4.49
+Martinique,MTQ,Pigs,0.41
+Mauritius,MUS,Pigs,0.26
+Mexico,MEX,Pigs,0.15
+Federated States of Micronesia,FSM,Pigs,1.5
+Mongolia,MNG,Pigs,0
+Montenegro,MNE,Pigs,0.04
+Monserrat,MSR,Pigs,0.4
+Morocco,MAR,Pigs,0
+Mozambique,MOZ,Pigs,0.03
+Myanmar,MMR,Pigs,0.75
+Namibia,NAM,Pigs,0
+Nepal,NPL,Pigs,0.26
+Netherlands,NLD,Pigs,6.56
+New Caledonia,NCL,Pigs,0.15
+New Zealand,NZL,Pigs,0.03
+Nicaragua,NIC,Pigs,0.1
+Niger,NER,Pigs,0
+Nigeria,NGA,Pigs,0.1
+Niue,NIU,Pigs,0.42
+Norway,NOR,Pigs,0.85
+Panama,PAN,Pigs,0.12
+Papua New Guinea,PNG,Pigs,1.5
+Paraguay,PRY,Pigs,0.06
+Peru,PER,Pigs,0.15
+Philippines,PHL,Pigs,1.02
+Poland,POL,Pigs,0.91
+Portugal,PRT,Pigs,0.55
+Puerto Rico,PRI,Pigs,0.26
+Reunion,REU,Pigs,1.51
+Korea South,KOR,Pigs,4.65
+Moldova,MDA,Pigs,0.19
+Romania,ROU,Pigs,0.39
+Russia,RUS,Pigs,0.08
+Rwanda,RWA,Pigs,0.37
+Saint Helena-Ascension-Tristan da Cunha,SHN,Pigs,0.05
+St Kitts Nevis,KNA,Pigs,1.17
+Saint Lucia,LCA,Pigs,1.82
+Saint-Pierre-et-Miquelon,SPM,Pigs,0
+St Vincent and the Grenadines,VCT,Pigs,0.93
+Samoa,WSM,Pigs,5.83
+Sao Tome and Principe,STP,Pigs,0.06
+Senegal,SEN,Pigs,0.04
+Serbia,SRB,Pigs,0.65
+Seychelles,SYC,Pigs,2
+Sierra Leone,SLE,Pigs,0.02
+Singapore,SGP,Pigs,369.86
+Slovakia,SVK,Pigs,0.36
+Slovenia,SVN,Pigs,0.86
+Solomon Islands,SLB,Pigs,0.59
+Somalia,SOM,Pigs,0
+South Africa,ZAF,Pigs,0.02
+Spain,ESP,Pigs,0.93
+Sri Lanka,LKA,Pigs,0.03
+Suriname,SUR,Pigs,0.42
+Swaziland,SWZ,Pigs,0.03
+Sweden,SWE,Pigs,0.48
+Switzerland,CHE,Pigs,1.04
+Syria,SYR,Pigs,0
+Tajikistan,TJK,Pigs,0
+Thailand,THA,Pigs,0.36
+Macedonia,MKD,Pigs,0.18
+Timor Leste,TLS,Pigs,1.17
+Togo,TGO,Pigs,0.15
+Tonga,TON,Pigs,2.62
+Trinidad and Tobago,TTO,Pigs,0.91
+Tunisia,TUN,Pigs,0
+Turkey,TUR,Pigs,0
+Turkmenistan,TKM,Pigs,0
+Tuvalu,TUV,Pigs,7.56
+Uganda,UGA,Pigs,0.17
+Ukraine,UKR,Pigs,0.19
+United Kingdom,GBR,Pigs,0.26
+Tanzania,TZA,Pigs,0.01
+United States,USA,Pigs,0.16
+US Virgin Islands,VIR,Pigs,0.66
+Uruguay,URY,Pigs,0.02
+Uzbekistan,UZB,Pigs,0
+Vanuatu,VUT,Pigs,0.49
+Venezuela,VEN,Pigs,0.16
+Vietnam,VNM,Pigs,2.5
+Wallis and Futuna Islands ,WLF,Pigs,4.17
+Zambia,ZMB,Pigs,0.03
+Zimbabwe,ZWE,Pigs,0.04
+Afghanistan,AFG,Sheep and Goats,0.58
+Albania,ALB,Sheep and Goats,2.15
+Algeria,DZA,Sheep and Goats,0.69
+Angola,AGO,Sheep and Goats,0.08
+Antigua and Barbuda,ATG,Sheep and Goats,6.56
+Argentina,ARG,Sheep and Goats,0.14
+Armenia,ARM,Sheep and Goats,0.31
+Aruba,ABW,Sheep and Goats,0
+Australia,AUS,Sheep and Goats,0.19
+Austria,AUT,Sheep and Goats,0.15
+Azerbaijan,AZE,Sheep and Goats,1.79
+Bahamas,BHS,Sheep and Goats,1.4
+Bahrain,BHR,Sheep and Goats,7.06
+Bangladesh,BGD,Sheep and Goats,5.74
+Barbados,BRB,Sheep and Goats,1.18
+Belarus,BLR,Sheep and Goats,0.01
+Belgium,BEL,Sheep and Goats,0.11
+Belize,BLZ,Sheep and Goats,0.08
+Benin,BEN,Sheep and Goats,0.72
+Bermuda,BMU,Sheep and Goats,0.47
+Bhutan,BTN,Sheep and Goats,0.11
+Bolivia,BOL,Sheep and Goats,0.3
+Bosnia Herzegovina,BIH,Sheep and Goats,0.5
+Botswana,BWA,Sheep and Goats,0.09
+Brazil,BRA,Sheep and Goats,0.1
+British Virgin Islands,VGB,Sheep and Goats,2.3
+Brunei,BRN,Sheep and Goats,0.96
+Bulgaria,BGR,Sheep and Goats,0.34
+Burkina Faso,BFA,Sheep and Goats,1.8
+Burundi,BDI,Sheep and Goats,1.18
+Cote dIvoire,CIV,Sheep and Goats,0.15
+Cape Verde,CPV,Sheep and Goats,3.41
+Cameroon,CMR,Sheep and Goats,0.88
+Canada,CAN,Sheep and Goats,0.01
+Cayman Islands,CYM,Sheep and Goats,0.8
+Central African Republic,CAF,Sheep and Goats,1.21
+Chad,TCD,Sheep and Goats,0.2
+Chile,CHL,Sheep and Goats,0.28
+China,CHN,Sheep and Goats,0.54
+Colombia,COL,Sheep and Goats,0.11
+Comoros,COM,Sheep and Goats,0.91
+Congo,COG,Sheep and Goats,0.04
+Cook Islands,COK,Sheep and Goats,0.34
+Costa Rica,CRI,Sheep and Goats,0
+Croatia,HRV,Sheep and Goats,0.53
+Cuba,CUB,Sheep and Goats,0.45
+Cyprus,CYP,Sheep and Goats,5.45
+Czech Republic,CZE,Sheep and Goats,0.05
+Korea North,PRK,Sheep and Goats,1.47
+Congo Dem Rep,COD,Sheep and Goats,0.19
+Denmark,DNK,Sheep and Goats,0.05
+Djibouti,DJI,Sheep and Goats,0.58
+Dominica,DMA,Sheep and Goats,0.67
+Dominican Republic,DOM,Sheep and Goats,0.19
+Ecuador,ECU,Sheep and Goats,0.28
+Egypt,EGY,Sheep and Goats,2.65
+El Salvador,SLV,Sheep and Goats,0.01
+Equatorial Guinea,GNQ,Sheep and Goats,0.16
+Eritrea,ERI,Sheep and Goats,0.53
+Estonia,EST,Sheep and Goats,0.09
+Ethiopia,ETH,Sheep and Goats,1.35
+Fiji,FJI,Sheep and Goats,0.62
+Finland,FIN,Sheep and Goats,0.06
+France,FRA,Sheep and Goats,0.31
+French Guiana,GUF,Sheep and Goats,0.1
+French Polynesia,PYF,Sheep and Goats,0.37
+Gabon,GAB,Sheep and Goats,0.06
+Gambia,GMB,Sheep and Goats,0.9
+Georgia,GEO,Sheep and Goats,0.26
+Germany,DEU,Sheep and Goats,0.12
+Ghana,GHA,Sheep and Goats,0.57
+Greece,GRC,Sheep and Goats,1.69
+Grenada,GRD,Sheep and Goats,1.85
+Guadeloupe,GLP,Sheep and Goats,0.51
+Guam,GUM,Sheep and Goats,0.04
+Guatemala,GTM,Sheep and Goats,0.17
+Guinea,GIN,Sheep and Goats,0.25
+Guinea Bissau,GNB,Sheep and Goats,0.73
+Guyana,GUY,Sheep and Goats,0.13
+Haiti,HTI,Sheep and Goats,1.17
+Honduras,HND,Sheep and Goats,0.01
+Hungary,HUN,Sheep and Goats,0.24
+Iceland,ISL,Sheep and Goats,0.3
+India,IND,Sheep and Goats,1.29
+Indonesia,IDN,Sheep and Goats,0.53
+Iran,IRN,Sheep and Goats,1.48
+Iraq,IRQ,Sheep and Goats,1.19
+Ireland,IRL,Sheep and Goats,1.03
+Israel,ISR,Sheep and Goats,1.06
+Italy,ITA,Sheep and Goats,0.64
+Jamaica,JAM,Sheep and Goats,1.12
+Japan,JPN,Sheep and Goats,0.01
+Jordan,JOR,Sheep and Goats,3.01
+Kazakhstan,KAZ,Sheep and Goats,0.09
+Kenya,KEN,Sheep and Goats,0.85
+Kuwait,KWT,Sheep and Goats,4.27
+Kyrgyzstan,KGZ,Sheep and Goats,0.5
+Laos,LAO,Sheep and Goats,0.18
+Latvia,LVA,Sheep and Goats,0.05
+Lebanon,LBN,Sheep and Goats,1.03
+Lesotho,LSO,Sheep and Goats,0.89
+Liberia,LBR,Sheep and Goats,0.23
+Libya,LBY,Sheep and Goats,0.62
+Liechtenstein,LIE,Sheep and Goats,0.72
+Lithuania,LTU,Sheep and Goats,0.03
+Luxembourg,LUX,Sheep and Goats,0.11
+Madagascar,MDG,Sheep and Goats,0.05
+Malawi,MWI,Sheep and Goats,0.84
+Malaysia,MYS,Sheep and Goats,0.09
+Mali,MLI,Sheep and Goats,0.72
+Malta,MLT,Sheep and Goats,1.63
+Martinique,MTQ,Sheep and Goats,0.64
+Mauritania,MRT,Sheep and Goats,0.36
+Mauritius,MUS,Sheep and Goats,0.55
+Mexico,MEX,Sheep and Goats,0.17
+Federated States of Micronesia,FSM,Sheep and Goats,0.19
+Mongolia,MNG,Sheep and Goats,0.28
+Montenegro,MNE,Sheep and Goats,0.41
+Monserrat,MSR,Sheep and Goats,3.97
+Morocco,MAR,Sheep and Goats,0.81
+Mozambique,MOZ,Sheep and Goats,0.11
+Myanmar,MMR,Sheep and Goats,0.33
+Namibia,NAM,Sheep and Goats,0.13
+Nepal,NPL,Sheep and Goats,2.35
+Netherlands,NLD,Sheep and Goats,0.78
+New Caledonia,NCL,Sheep and Goats,0.04
+New Zealand,NZL,Sheep and Goats,2.75
+Nicaragua,NIC,Sheep and Goats,0
+Niger,NER,Sheep and Goats,0.53
+Nigeria,NGA,Sheep and Goats,1.25
+Norway,NOR,Sheep and Goats,2.37
+Palestinian Territory,PSE,Sheep and Goats,3.22
+Oman,OMN,Sheep and Goats,1.21
+Pakistan,PAK,Sheep and Goats,3.37
+Panama,PAN,Sheep and Goats,0
+Papua New Guinea,PNG,Sheep and Goats,0.01
+Paraguay,PRY,Sheep and Goats,0.03
+Peru,PER,Sheep and Goats,0.74
+Philippines,PHL,Sheep and Goats,0.32
+Poland,POL,Sheep and Goats,0.02
+Portugal,PRT,Sheep and Goats,0.71
+Puerto Rico,PRI,Sheep and Goats,0.05
+Qatar,QAT,Sheep and Goats,6.54
+Reunion,REU,Sheep and Goats,0.9
+Korea South,KOR,Sheep and Goats,0.14
+Moldova,MDA,Sheep and Goats,0.37
+Romania,ROU,Sheep and Goats,0.69
+Russia,RUS,Sheep and Goats,0.1
+Rwanda,RWA,Sheep and Goats,1.98
+Saint Helena-Ascension-Tristan da Cunha,SHN,Sheep and Goats,0.16
+St Kitts Nevis,KNA,Sheep and Goats,2.67
+Saint Lucia,LCA,Sheep and Goats,1.77
+Saint-Pierre-et-Miquelon,SPM,Sheep and Goats,0.13
+St Vincent and the Grenadines,VCT,Sheep and Goats,2.1
+Sao Tome and Principe,STP,Sheep and Goats,0.18
+Saudi Arabia,SAU,Sheep and Goats,0.05
+Senegal,SEN,Sheep and Goats,1.09
+Serbia,SRB,Sheep and Goats,0.31
+Seychelles,SYC,Sheep and Goats,1.8
+Sierra Leone,SLE,Sheep and Goats,0.48
+Singapore,SGP,Sheep and Goats,0.92
+Slovakia,SVK,Sheep and Goats,0.22
+Slovenia,SVN,Sheep and Goats,0.34
+Somalia,SOM,Sheep and Goats,0.54
+South Africa,ZAF,Sheep and Goats,0.32
+Spain,ESP,Sheep and Goats,0.72
+Sri Lanka,LKA,Sheep and Goats,0.15
+Suriname,SUR,Sheep and Goats,0.16
+Swaziland,SWZ,Sheep and Goats,0.25
+Sweden,SWE,Sheep and Goats,0.2
+Switzerland,CHE,Sheep and Goats,0.34
+Syria,SYR,Sheep and Goats,1.47
+Tajikistan,TJK,Sheep and Goats,0.95
+Thailand,THA,Sheep and Goats,0.02
+Macedonia,MKD,Sheep and Goats,0.75
+Timor Leste,TLS,Sheep and Goats,0.53
+Togo,TGO,Sheep and Goats,1.09
+Tonga,TON,Sheep and Goats,0.41
+Trinidad and Tobago,TTO,Sheep and Goats,1.24
+Tunisia,TUN,Sheep and Goats,0.82
+Turkey,TUR,Sheep and Goats,0.77
+Turkmenistan,TKM,Sheep and Goats,0.5
+Tuvalu,TUV,Sheep and Goats,0
+Uganda,UGA,Sheep and Goats,0.79
+Ukraine,UKR,Sheep and Goats,0.04
+United Arab Emirates,ARE,Sheep and Goats,8.56
+United Kingdom,GBR,Sheep and Goats,1.85
+Tanzania,TZA,Sheep and Goats,0.52
+United States,USA,Sheep and Goats,0.02
+US Virgin Islands,VIR,Sheep and Goats,1.84
+Uruguay,URY,Sheep and Goats,0.52
+Uzbekistan,UZB,Sheep and Goats,0.58
+Vanuatu,VUT,Sheep and Goats,0.11
+Venezuela,VEN,Sheep and Goats,0.1
+Vietnam,VNM,Sheep and Goats,0.12
+Wallis and Futuna Islands ,WLF,Sheep and Goats,1.17
+Western Sahara,ESH,Sheep and Goats,0.04
+Yemen,YEM,Sheep and Goats,0.78
+Zambia,ZMB,Sheep and Goats,0.11
+Zimbabwe,ZWE,Sheep and Goats,0.18

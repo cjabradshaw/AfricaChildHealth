@@ -1,0 +1,211 @@
+country,cntry.code,pclandprot,rank
+Afghanistan,AFG,0,194
+Albania,ALB,2,180
+Algeria,DZA,8,139
+Andorra,AND,20,74
+Angola,AGO,7,143
+Antigua and Barbuda,ATG,5,152
+Argentina,ARG,7,146
+Armenia,ARM,25,51
+Australia,AUS,15,107
+Austria,AUT,28,38
+Azerbaijan,AZE,14,110
+Bahamas,BHS,13,112
+Bahrain,BHR,3,173
+Bangladesh,BGD,5,157
+Barbados,BRB,0,198
+Belarus,BLR,9,134
+Belgium,BEL,23,59
+Belize,BLZ,37,20
+Benin,BEN,28,39
+Bhutan,BTN,47,9
+Bolivia,BOL,25,50
+Bosnia Herzegovina,BIH,1,187
+Botswana,BWA,29,35
+Brazil,BRA,28,36
+Brunei,BRN,44,11
+Bulgaria,BGR,41,14
+Burkina Faso,BFA,15,101
+Burundi,BDI,7,145
+Cambodia,KHM,26,44
+Cameroon,CMR,11,122
+Canada,CAN,9,130
+Cape Verde,CPV,3,176
+Central African Republic,CAF,18,85
+Chad,TCD,18,86
+Channel Islands,CHI,,NaN
+Chile,CHL,18,82
+China,CHN,17,90
+China Hong Kong SAR,HKG,42,13
+China Macao SAR,MAC,0,200
+Colombia,COL,23,55
+Comoros,COM,10,126
+Congo,COG,35,22
+Congo Dem Rep,COD,12,116
+Costa Rica,CRI,27,41
+Cote dIvoire,CIV,23,58
+Croatia,HRV,38,17
+Cuba,CUB,12,114
+Curacao,CUW,,NaN
+Cyprus,CYP,18,81
+Czech Republic,CZE,21,68
+Denmark,DNK,18,83
+Djibouti,DJI,1,186
+Dominica,DMA,22,66
+Dominican Republic,DOM,23,56
+Ecuador,ECU,26,45
+Egypt,EGY,11,119
+El Salvador,SLV,8,135
+Equatorial Guinea,GNQ,25,48
+Eritrea,ERI,5,155
+Estonia,EST,21,70
+Ethiopia,ETH,18,79
+Federated States of Micronesia,FSM,4,160
+Fiji,FJI,4,159
+Finland,FIN,15,103
+France,FRA,25,46
+French Guiana,GUF,52,8
+French Polynesia,PYF,2,184
+Gabon,GAB,20,72
+Gambia,GMB,4,162
+Georgia,GEO,8,137
+Germany,DEU,37,18
+Ghana,GHA,15,102
+Greece,GRC,35,23
+Grenada,GRD,2,182
+Guadeloupe,GLP,66,2
+Guam,GUM,27,42
+Guatemala,GTM,32,29
+Guinea,GIN,29,34
+Guinea Bissau,GNB,16,96
+Guyana,GUY,9,133
+Haiti,HTI,0,196
+Honduras,HND,22,65
+Hungary,HUN,23,60
+Iceland,ISL,17,94
+India,IND,5,154
+Indonesia,IDN,15,106
+Iran,IRN,7,141
+Iraq,IRQ,0,195
+Ireland,IRL,14,108
+Israel,ISR,20,73
+Italy,ITA,21,67
+Jamaica,JAM,16,100
+Japan,JPN,19,75
+Jordan,JOR,2,183
+Kazakhstan,KAZ,3,169
+Kenya,KEN,12,115
+Kiribati,KIR,22,62
+Korea North,KOR,3,177
+Korea South,PRK,8,140
+Kosovo,XKX,,NaN
+Kuwait,KWT,18,79
+Kyrgyzstan,KGZ,7,144
+Laos,LAO,17,95
+Latvia,LVA,18,84
+Lebanon,LBN,3,175
+Lesotho,LSO,1,193
+Liberia,LBR,3,178
+Libya,LBY,0,197
+Liechtenstein,LIE,44,10
+Lithuania,LTU,17,93
+Luxembourg,LUX,35,24
+Macedonia,MKD,10,128
+Madagascar,MDG,5,156
+Malawi,MWI,17,92
+Malaysia,MYS,18,78
+Maldives,MDV,1,191
+Mali,MLI,8,136
+Malta,MLT,23,54
+Marshall Islands,MHL,8,138
+Martinique,MTQ,62,3
+Mauritania,MRT,1,188
+Mauritius,MUS,5,158
+Mayotte,MYT,0,200
+Mexico,MEX,13,113
+Moldova,MDA,4,166
+Monaco,MCO,53,7
+Mongolia,MNG,17,88
+Montenegro,MNE,4,163
+Morocco,MAR,34,25
+Mozambique,MOZ,17,88
+Myanmar,MMR,7,142
+Namibia,NAM,38,15
+Nauru,NRU,0,200
+Nepal,NPL,23,57
+Netherlands,NLD,12,117
+New Caledonia,NCL,54,4
+New Zealand,NZL,33,26
+Nicaragua,NIC,37,19
+Niger,NER,18,87
+Nigeria,NGA,14,109
+Norway,NOR,29,33
+Oman,OMN,11,124
+Pakistan,PAK,11,123
+Palau,PLW,16,98
+Palestinian Territory,PSE,0,200
+Panama,PAN,21,71
+Papua New Guinea,PNG,3,172
+Paraguay,PRY,6,150
+Peru,PER,31,30
+Philippines,PHL,11,120
+Poland,POL,30,32
+Portugal,PRT,22,63
+Puerto Rico,PRI,10,125
+Qatar,QAT,3,170
+Reunion,REU,76,1
+Romania,ROU,24,52
+Russia,RUS,11,118
+Rwanda,RWA,9,129
+Saint Lucia,LCA,17,91
+Samoa,WSM,7,147
+San Marino,SMR,0,200
+Sao Tome and Principe,STP,0,200
+Saudi Arabia,SAU,31,31
+Senegal,SEN,25,47
+Serbia,SRB,7,148
+Seychelles,SYC,42,12
+Sierra Leone,SLE,11,121
+Singapore,SGP,6,151
+Slovakia,SVK,37,21
+Slovenia,SVN,54,6
+Solomon Islands,SLB,2,181
+Somalia,SOM,1,192
+South Africa,ZAF,9,131
+South Sudan,SSD,21,69
+Spain,ESP,28,40
+Sri Lanka,LKA,23,53
+St Kitts Nevis,KNA,3,168
+St Vincent and the Grenadines,VCT,22,61
+Sudan,SDN,2,185
+Suriname,SUR,15,105
+Swaziland,SWZ,4,165
+Sweden,SWE,15,104
+Switzerland,CHE,10,127
+Syria,SYR,1,190
+Taiwan,TWN,,NaN
+Tajikistan,TJK,22,64
+Tanzania,TZA,32,28
+Thailand,THA,19,76
+Timor Leste,TLS,9,132
+Togo,TGO,25,48
+Tonga,TON,16,99
+Trinidad and Tobago,TTO,32,27
+Tunisia,TUN,5,153
+Turkey,TUR,0,198
+Turkmenistan,TKM,3,171
+Tuvalu,TUV,2,179
+Uganda,UGA,16,97
+Ukraine,UKR,4,164
+United Arab Emirates,ARE,19,77
+United Kingdom,GBR,28,37
+United States,USA,14,111
+Uruguay,URY,3,174
+Uzbekistan,UZB,3,167
+Vanuatu,VUT,4,161
+Venezuela,VEN,54,5
+Vietnam,VNM,7,149
+Western Sahara,ESH,0,200
+Yemen,YEM,1,189
+Zambia,ZMB,38,16
+Zimbabwe,ZWE,27,43
