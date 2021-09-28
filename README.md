@@ -32,4 +32,5 @@ The following files can be found in the <a href="https://github.com/cjabradshaw/
 Note, you must unzip the file 'IHME_DAH_DATABASE_1990_2015_Y2016M04D25.CSV.zip' within the same directory to access the .csv file with the R script
 
 ## Source files
-- r.squared.R
+- <code>new_lmer_AIC_tables3.r</code>
+- <code>r.squared.R</code>
