@@ -74,6 +74,21 @@ The following files can be found in the <a href="https://github.com/cjabradshaw/
 
 Note, you must unzip the file 'IHME_DAH_DATABASE_1990_2015_Y2016M04D25.CSV.zip' within the same directory to access the .csv file with the R script
 
+## Required R libraries
+- <code>boot</code>
+- <code>biomod2</code>
+- <code>sem</code>
+- <code>semPlot</code>
+- <code>semGOF</code>
+- <code>dismo</code>
+- <code>gbm</code>
+- <code>ape</code>
+- <code>geosphere</code>
+- <code>ncf</code>
+- <code>ModelMetrics</code>
+- <code>pgirmess</code>
+- <code>lme4</code>
+
 ## Source files
 - <code>new_lmer_AIC_tables3.r</code>
 - <code>r.squared.R</code>
