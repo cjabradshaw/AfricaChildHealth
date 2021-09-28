@@ -17,6 +17,7 @@ http://globalecologyflinders.com <br>
 ## Data files
 The following files can be found in the <a href="https://github.com/cjabradshaw/AfricaChildHealth/tree/master/data">data</a> subdirectory:
 
+- AFR.threat.csv
 - Africa.regions.csv
 - arableland.csv
 - cc2to3.csv
