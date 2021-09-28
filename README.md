@@ -31,6 +31,7 @@ The following files can be found in the <a href="https://github.com/cjabradshaw/
 - faocountrycode.csv
 - foodsupply.csv
 - forestloss.csv
+- freshwrem.csv
 - HME_DAH_DATABASE_1990_2015_Y2016M04D25.CSV.zip
 - PPP11.15.csv
 - WHO.cntry.csv
