@@ -5,6 +5,23 @@ Data and R code to reproduce analyses examining socio-economic and environmental
 
 Accompanies the paper: Bradshaw, CJA, SP Otto, AA Annamalay, S Heft-Neal, Z Wagner, PN Le Souëf. 2019. Testing the socio-economic and environmental determinants of better child-health outcomes in Africa: a cross-sectional study among nations. <em>BMJ Open</em> 9: e029968. doi:<a href="http://doi.org/10.1136/bmjopen-2019-029968">10.1136/bmjopen-2019-029968</a>
 
+## ABSTRACT
+### Objective
+We sought to test hypotheses regarding the principal correlates of child-health performance among African nations based on previous evidence collected at finer spatial scales.
+### Design
+Retrospective, cross-sectional study.
+### Setting
+All countries in Africa, excluding small-island nations.
+### Primary and secondary outcome measures
+We defined a composite child-health indicator for each country comprising the incidence of stunting, deaths from respiratory disease, deaths from diarrhoeal disease, deaths from other infectious disease and deaths from injuries for children aged under 5 years. We also compiled national-level data for Africa to test the effects of countrylevel water quality, air pollution, food supply, breast feeding, environmental performance, per capita wealth, healthcare investment, population density and governance quality on the child-health indicator.
+### Results
+Across nations, child health was lowest when water quality, improved sanitation, air quality and environmental performance were lowest. There was also
+an important decline in child health as household size (a proxy for population density) increased. The remaining variables had only weak effects, but in the directions we hypothesised.
+### Conclusions
+These results emphasise the importance of continued investment in clean water and sanitation services, measures to improve air quality and efforts to
+restrict further environmental degradation, to promote the UN’s Sustainable Development Goal 3 target to ‘... end preventable deaths of newborns and children under 5’ and Goal 6 to ‘... ensure access to water and sanitation for all’ by 2030.
+
+<br>
 <strong>Contact</strong>: Professor Corey J. A. Bradshaw <br>
 http://globalecologyflinders.com <br>
 <a href="mailto:corey.bradshaw@flinders.edu.au">e-mail</a>
