@@ -18,6 +18,7 @@ http://globalecologyflinders.com <br>
 The following files can be found in the <a href="https://github.com/cjabradshaw/AfricaChildHealth/tree/master/data">data</a> subdirectory:
 
 - arableland.csv
+- HME_DAH_DATABASE_1990_2015_Y2016M04D25.CSV.zip
 - WHO.regions.csv
 
 Note, you must unzip the file 'IHME_DAH_DATABASE_1990_2015_Y2016M04D25.CSV.zip' within the same directory to access the .csv file with the R script
