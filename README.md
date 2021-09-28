@@ -32,8 +32,25 @@ The following files can be found in the <a href="https://github.com/cjabradshaw/
 - foodsupply.csv
 - forestloss.csv
 - freshwrem.csv
+- gdppcppp.csv
+- hc.exp.USDpc.csv
 - HME_DAH_DATABASE_1990_2015_Y2016M04D25.CSV.zip
+- household size Africa.csv
+- imp.san.pcaccess.csv
+- imp.water.pcaccess.csv
+- land.area.csv
+- landprot.csv
+- life.exp.birth.fem.csv
+- life.exp.birth.mal.csv
+- livestock.csv
+- megafaunaconserv.csv
+- overallgovernance.csv
+- pcemiss.csv
+- pcu5stunt.csv
+- pop.yr.csv
+- povgap.csv
 - PPP11.15.csv
+- respiratorydisease.csv
 - WHO.cntry.csv
 
 Note, you must unzip the file 'IHME_DAH_DATABASE_1990_2015_Y2016M04D25.CSV.zip' within the same directory to access the .csv file with the R script
