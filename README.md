@@ -24,6 +24,7 @@ The following files can be found in the <a href="https://github.com/cjabradshaw/
 - continent.country.csv
 - country.centroids.csv
 - country_level_pm25.rds
+- cropland.csv
 - HME_DAH_DATABASE_1990_2015_Y2016M04D25.CSV.zip
 - WHO.cntry.csv
 
