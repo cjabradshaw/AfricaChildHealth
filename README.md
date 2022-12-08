@@ -23,7 +23,7 @@ restrict further environmental degradation, to promote the UN’s Sustainable De
 
 <br>
 <strong>Contact</strong>: Professor Corey J. A. Bradshaw <br>
-<a href="http://globalecologyflinders.com">Global Ecology"</a> <br>
+<a href="http://globalecologyflinders.com">Global Ecology</a> <br>
 <a href="mailto:corey.bradshaw@flinders.edu.au">e-mail</a>
 
 03 September 2019
