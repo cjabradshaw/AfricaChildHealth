@@ -1,5 +1,5 @@
 # Africa Child Health
-<img align="right" src="AfricaChildHealth.png" alt="Child Health" width="200" style="margin-top: 20px">
+<img align="right" src="www/AfricaChildHealth.png" alt="Child Health" width="200" style="margin-top: 20px">
 
 Data and R code to reproduce analyses examining socio-economic and environmental determinants of child-health outcomes among African nations
 
@@ -92,3 +92,6 @@ Note, you must unzip the file 'IHME_DAH_DATABASE_1990_2015_Y2016M04D25.CSV.zip' 
 ## Source files
 - <code>new_lmer_AIC_tables3.r</code>
 - <code>r.squared.R</code>
+
+<a href="https://www.flinders.edu.au"><img align="bottom-left" src="www/Flinders_University_Logo_Horizontal_RGB_Master.png" alt="Flinders University logo" width="200" style="margin-top: 20px"></a>
+<a href="https://globalecologyflinders.com"><img align="bottom-left" src="www/GEL Logo Kaurna New Transp.png" alt="GEL logo" width="200" style="margin-top: 20px"></a> 
