@@ -95,3 +95,4 @@ Note, you must unzip the file 'IHME_DAH_DATABASE_1990_2015_Y2016M04D25.CSV.zip' 
 
 <a href="https://www.flinders.edu.au"><img align="bottom-left" src="www/Flinders_University_Logo_Horizontal_RGB_Master.png" alt="Flinders University logo" width="200" style="margin-top: 20px"></a>
 <a href="https://globalecologyflinders.com"><img align="bottom-left" src="www/GEL Logo Kaurna New Transp.png" alt="GEL logo" width="200" style="margin-top: 20px"></a> 
+<a href="https://github.com/FutureChildHealth"><img align="bottom-left" src="www/FCHlogo06122024.png" alt="Future Child Health logo" width="120" style="margin-top: 20px"></a>
